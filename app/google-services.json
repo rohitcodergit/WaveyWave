@@ -1,0 +1,29 @@
+  {
+  "project_info": {
+    "project_number": "728005705226",
+    "project_id": "weavewave-525ff",
+    "storage_bucket": "weavewave-525ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728005705226:android:919c9cb2e86666ab0829f3",
+        "android_client_info": {
+          "package_name": "com.example.threads"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHTI3NEq91MDU59atJ_A-zPn7cJ7hTj4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
